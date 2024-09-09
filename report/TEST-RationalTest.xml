@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Panda" name="RationalTest" skipped="0" tests="9" time="0.056" timestamp="2567-09-09T11:51:27">
+  <properties>
+    <property name="ant.library.dir" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.6\lib\ant\lib" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.specification.version" value="18" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="MS874" />
+    <property name="java.class.path" value="D:\Program files\Java\jdk-18!\java.base;D:\Program files\Java\jdk-18!\java.compiler;D:\Program files\Java\jdk-18!\java.datatransfer;D:\Program files\Java\jdk-18!\java.desktop;D:\Program files\Java\jdk-18!\java.instrument;D:\Program files\Java\jdk-18!\java.logging;D:\Program files\Java\jdk-18!\java.management;D:\Program files\Java\jdk-18!\java.management.rmi;D:\Program files\Java\jdk-18!\java.naming;D:\Program files\Java\jdk-18!\java.net.http;D:\Program files\Java\jdk-18!\java.prefs;D:\Program files\Java\jdk-18!\java.rmi;D:\Program files\Java\jdk-18!\java.scripting;D:\Program files\Java\jdk-18!\java.se;D:\Program files\Java\jdk-18!\java.security.jgss;D:\Program files\Java\jdk-18!\java.security.sasl;D:\Program files\Java\jdk-18!\java.smartcardio;D:\Program files\Java\jdk-18!\java.sql;D:\Program files\Java\jdk-18!\java.sql.rowset;D:\Program files\Java\jdk-18!\java.transaction.xa;D:\Program files\Java\jdk-18!\java.xml;D:\Program files\Java\jdk-18!\java.xml.crypto;D:\Program files\Java\jdk-18!\jdk.accessibility;D:\Program files\Java\jdk-18!\jdk.attach;D:\Program files\Java\jdk-18!\jdk.charsets;D:\Program files\Java\jdk-18!\jdk.compiler;D:\Program files\Java\jdk-18!\jdk.crypto.cryptoki;D:\Program files\Java\jdk-18!\jdk.crypto.ec;D:\Program files\Java\jdk-18!\jdk.crypto.mscapi;D:\Program files\Java\jdk-18!\jdk.dynalink;D:\Program files\Java\jdk-18!\jdk.editpad;D:\Program files\Java\jdk-18!\jdk.hotspot.agent;D:\Program files\Java\jdk-18!\jdk.httpserver;D:\Program files\Java\jdk-18!\jdk.incubator.foreign;D:\Program files\Java\jdk-18!\jdk.incubator.vector;D:\Program files\Java\jdk-18!\jdk.internal.ed;D:\Program files\Java\jdk-18!\jdk.internal.jvmstat;D:\Program files\Java\jdk-18!\jdk.internal.le;D:\Program files\Java\jdk-18!\jdk.internal.opt;D:\Program files\Java\jdk-18!\jdk.internal.vm.ci;D:\Program files\Java\jdk-18!\jdk.internal.vm.compiler;D:\Program files\Java\jdk-18!\jdk.internal.vm.compiler.management;D:\Program files\Java\jdk-18!\jdk.jartool;D:\Program files\Java\jdk-18!\jdk.javadoc;D:\Program files\Java\jdk-18!\jdk.jcmd;D:\Program files\Java\jdk-18!\jdk.jconsole;D:\Program files\Java\jdk-18!\jdk.jdeps;D:\Program files\Java\jdk-18!\jdk.jdi;D:\Program files\Java\jdk-18!\jdk.jdwp.agent;D:\Program files\Java\jdk-18!\jdk.jfr;D:\Program files\Java\jdk-18!\jdk.jlink;D:\Program files\Java\jdk-18!\jdk.jpackage;D:\Program files\Java\jdk-18!\jdk.jshell;D:\Program files\Java\jdk-18!\jdk.jsobject;D:\Program files\Java\jdk-18!\jdk.jstatd;D:\Program files\Java\jdk-18!\jdk.localedata;D:\Program files\Java\jdk-18!\jdk.management;D:\Program files\Java\jdk-18!\jdk.management.agent;D:\Program files\Java\jdk-18!\jdk.management.jfr;D:\Program files\Java\jdk-18!\jdk.naming.dns;D:\Program files\Java\jdk-18!\jdk.naming.rmi;D:\Program files\Java\jdk-18!\jdk.net;D:\Program files\Java\jdk-18!\jdk.nio.mapmode;D:\Program files\Java\jdk-18!\jdk.random;D:\Program files\Java\jdk-18!\jdk.sctp;D:\Program files\Java\jdk-18!\jdk.security.auth;D:\Program files\Java\jdk-18!\jdk.security.jgss;D:\Program files\Java\jdk-18!\jdk.unsupported;D:\Program files\Java\jdk-18!\jdk.unsupported.desktop;D:\Program files\Java\jdk-18!\jdk.xml.dom;D:\Program files\Java\jdk-18!\jdk.zipfs;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.6\lib\ant\lib\ant.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.6\lib\idea_rt.jar" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="user.variant" value="" />
+    <property name="java.vendor.url" value="https://java.oracle.com/" />
+    <property name="user.country.format" value="TH" />
+    <property name="os.name" value="Windows 11" />
+    <property name="java.vm.specification.version" value="18" />
+    <property name="user.country" value="US" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk-18\bin" />
+    <property name="sun.java.command" value="com.intellij.rt.ant.execution.AntMain2 -logger com.intellij.rt.ant.execution.IdeaAntLogger2 -inputhandler com.intellij.rt.ant.execution.IdeaInputHandler -buildfile D:\Rational\build.xml test" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="C:\Users\himwa" />
+    <property name="user.language" value="en" />
+    <property name="sun.stderr.encoding" value="UTF-8" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2022-03-22" />
+    <property name="java.home" value="D:\Program Files\Java\jdk-18" />
+    <property name="file.separator" value="\" />
+    <property name="basedir" value="D:\Rational" />
+    <property name="java.vm.compressedOopsMode" value="32-bit" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="sun.stdout.encoding" value="UTF-8" />
+    <property name="ant.java.version" value="18" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="user.script" value="" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="18+36-2087" />
+    <property name="user.name" value="himwa" />
+    <property name="ant.file" value="D:\Rational\build.xml" />
+    <property name="path.separator" value=";" />
+    <property name="os.version" value="10.0" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="ant.project.invoked-targets" value="test" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="ant.core.lib" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.6\lib\ant\lib\ant.jar" />
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/" />
+    <property name="java.io.tmpdir" value="C:\Users\himwa\AppData\Local\Temp\" />
+    <property name="java.version" value="18" />
+    <property name="user.dir" value="D:\Rational" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="user.language.format" value="th" />
+    <property name="ant.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.6\lib\ant" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="native.encoding" value="MS874" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.12 compiled on October 13 2021" />
+    <property name="java.library.path" value="D:\Program Files\Java\jdk-18\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;D:\Program files\Git\bin\git.exe;D:\Program files\Git\cmd;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\nodejs\;C:\Users\himwa\AppData\Local\Pub\Cache\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\himwa\AppData\Local\Microsoft\WindowsApps;E:\Users\himwa\AppData\Local\Programs\Microsoft VS Code\bin;D:\dev\flutter\flutter\bin;D:\dev\dart\dart-sdk\bin;C:\Users\himwa\AppData\Local\GitHubDesktop\bin;C:\Users\himwa\AppData\Roaming\npm;C:\Users\himwa\AppData\Local\Pub\Cache\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.6\bin;;C:\Program Files (x86)\Java\jre-1.8\bin;C:\Users\himwa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts;;." />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="java.vm.version" value="18+36-2087" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="java.class.version" value="62.0" />
+  </properties>
+  <testcase classname="RationalTest" name="testDivideByZero" time="0.004" />
+  <testcase classname="RationalTest" name="testAdd" time="0.001" />
+  <testcase classname="RationalTest" name="testSubtract" time="0.0" />
+  <testcase classname="RationalTest" name="testToString" time="0.003" />
+  <testcase classname="RationalTest" name="testCompareTo" time="0.001" />
+  <testcase classname="RationalTest" name="testSimplestForm" time="0.0" />
+  <testcase classname="RationalTest" name="testDivide" time="0.0" />
+  <testcase classname="RationalTest" name="testEquals" time="0.0" />
+  <testcase classname="RationalTest" name="testMultiply" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
